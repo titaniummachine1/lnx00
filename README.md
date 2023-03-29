@@ -4,4 +4,5 @@
   <img src="https://komarev.com/ghpvc/?username=lnx00&style=for-the-badge">
 </p>
 
-![](https://hit.yhype.me/github/profile?user_id=34384416)
+![](https://komarev.com/ghpvc/?username=titaniummachine1&style=flat-square)
+
